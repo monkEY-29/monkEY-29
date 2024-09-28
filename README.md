@@ -1,8 +1,8 @@
 - 🐵 Hi, I’m @monkEY-29 (monkEY-)
 - 👀 I’m interested in: Linux, Arduino, C/C++, DOOM, Quake, GoldSRC and Source Engine modifications.
-- 🌱 I’m currently learning: Linux, Arduino, C/C++, 
+- 🌱 I’m currently learning: Linux, Arduino and C/C++. 
 - 💞️ I’m looking to collaborate on mods for the above listed game engines.
-- 🔥 To: 🇨🇦,👮🏻‍♂️ & ⛪
+- 🔥 To: 🇨🇦,👮🏻‍♂️ & ⛪.
 - 📫 How to reach me: Steamcommunity.com/id/caltwentynine
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watched a whale jump out of his own tail once during summer vacation.
