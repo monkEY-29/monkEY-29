@@ -1,5 +1,5 @@
 - 🐵 Hi, I’m @monkEY-29 (monkEY-)
-- 👀 I’m interested in: Linux, Arduino, C/C++, DOOM, Quake, GoldSRC and Source Engine modifications.
+- 👀 I’m interested in: Linux, Arduino, C/C++, GoldSRC and Source Engine modifications.
 - 🌱 I’m currently learning: Linux, Arduino and C/C++. 
 - 💞️ I’m looking to collaborate on mods for the above listed game engines.
 - 🔥 To: 🇨🇦 ⛪ 👮🏻‍♂️
