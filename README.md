@@ -1,10 +1,8 @@
 - 🐵 Hi, I’m @monkEY-29 (monkEY-)
-- 👀 I’m interested in: Linux, Arduino, C/C++, GoldSRC and Source Engine modifications.
-- 🌱 I’m currently learning: Linux, Arduino and C/C++. 
+- 👀 I’m interested in: Linu shell scripting, C/C++, Game Engines.
+- 🌱 I’m currently learning: Project Zomboid modding (WorldEd, Tilezed, Lua), Linux, Arduino and C/C++. 
 - 💞️ I’m looking to collaborate on mods for the above listed game engines.
-- 🔥 To: 🇨🇦 ⛪ 👮🏻‍♂️
 - 📫 How to reach me: Steamcommunity.com/id/caltwentynine
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watched a whale jump out of his own tail once during summer vacation.
 
 <!---
